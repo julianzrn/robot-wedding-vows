@@ -7,8 +7,8 @@ from pathlib import Path
 
 OUTPUT_PATH = Path("/output/entry.txt")
 
-OPENING = "I promise to love you in sickness and in health, "
-LANDING = "in good times and in low battery, until a forced update do us part."
+OPENING = "I promise to love you in sickness and in health, in good times and in low battery, "
+LANDING = "until a forced update do us part."
 
 ENTRY = OPENING + LANDING
 
